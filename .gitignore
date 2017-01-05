@@ -1,0 +1,5 @@
+.idea/*
+*.iml
+core/src/test/
+core/target/
+ui.apps/target/
